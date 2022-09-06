@@ -8,6 +8,7 @@ Buy on tebex :- https://project-infinity.tebex.io/package/5285187
 Video Previews:
 
 https://youtu.be/zHEo1KBlN3M
+
 Discord :- https://discord.gg/hYeR8krBBX
 
 How to install
