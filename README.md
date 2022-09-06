@@ -3,6 +3,7 @@ FiveM Custom QBCORE icecream counter script made by Infinity Dev Team.
 
 Highly customisable via config.lua.
 Well optimized when it comes to the number of lines used in html , javascript and highly recommanded for your QBCore Server.
+
 Buy on tebex :- https://project-infinity.tebex.io/package/5285187
 
 Video Previews:
