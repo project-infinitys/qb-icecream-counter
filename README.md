@@ -12,7 +12,7 @@ https://youtu.be/zHEo1KBlN3M
 
 Discord :- https://discord.gg/hYeR8krBBX
 
-How to install
+How to install.
 
 Place in your resources folder or inside [qb] folder.
 If you have "ensure [qb]" under "server.cfg" then just start your server, if not then add "ensure infinity-icecream" 
