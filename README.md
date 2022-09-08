@@ -1,4 +1,5 @@
 # qb-icecream-counter
+
 FiveM Custom QBCORE icecream counter script made by Infinity Dev Team.
 
 Highly customisable via config.lua.
